@@ -2,17 +2,18 @@
 
 This repository is my complete FastAPI learning roadmap, from basic concepts to advanced topics, including:
 
-✅ Setting up FastAPI & Uvicorn
-✅ Creating GET & POST endpoints
-✅ Path & Query Parameters
-✅ Request Body & Pydantic Models
-✅ Authentication & JWT Tokens
-✅ Database Integration (SQLAlchemy / PostgreSQL / MongoDB)
-✅ ORM & Migrations
-✅ Background Tasks & Caching
-✅ WebSockets (Real-time Apps)
-✅ AI Model Integration
-✅ Deployment (Docker + Cloud)
+✅ [Setting up FastAPI & Uvicorn](https://fastapi.tiangolo.com/tutorial/first-steps/)  
+✅ [Creating GET & POST endpoints](https://fastapi.tiangolo.com/tutorial/body/)  
+✅ [Path & Query Parameters](https://fastapi.tiangolo.com/tutorial/path-params/)  
+✅ [Request Body & Pydantic Models](https://fastapi.tiangolo.com/tutorial/body/)  
+✅ [Authentication & JWT Tokens](https://fastapi.tiangolo.com/tutorial/security/)  
+✅ [Database Integration (SQLAlchemy / PostgreSQL / MongoDB)](https://fastapi.tiangolo.com/tutorial/sql-databases/)  
+✅ [ORM & Migrations](https://fastapi.tiangolo.com/tutorial/sql-databases/#create-the-database-tables)  
+✅ [Background Tasks & Caching](https://fastapi.tiangolo.com/tutorial/background-tasks/)  
+✅ [WebSockets (Real-time Apps)](https://fastapi.tiangolo.com/advanced/websockets/)  
+✅ [AI Model Integration](https://fastapi.tiangolo.com/advanced/custom-response/#use-a-custom-response-class) *(custom integrations with ML models)*  
+✅ [Deployment (Docker + Cloud)](https://fastapi.tiangolo.com/deployment/docker/)  
+
 
 📚 Resources & Documentation
 
