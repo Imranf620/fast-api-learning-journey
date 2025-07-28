@@ -2,7 +2,17 @@
 
 This repository is my complete FastAPI learning roadmap, from basic concepts to advanced topics, including:
 
-✅ Setting up FastAPI & Uvicorn✅ Creating GET & POST endpoints✅ Path & Query Parameters✅ Request Body & Pydantic Models✅ Authentication & JWT Tokens✅ Database Integration (SQLAlchemy / PostgreSQL / MongoDB)✅ ORM & Migrations✅ Background Tasks & Caching✅ WebSockets (Real-time Apps)✅ AI Model Integration✅ Deployment (Docker + Cloud)
+✅ Setting up FastAPI & Uvicorn
+✅ Creating GET & POST endpoints
+✅ Path & Query Parameters
+✅ Request Body & Pydantic Models
+✅ Authentication & JWT Tokens
+✅ Database Integration (SQLAlchemy / PostgreSQL / MongoDB)
+✅ ORM & Migrations
+✅ Background Tasks & Caching
+✅ WebSockets (Real-time Apps)
+✅ AI Model Integration
+✅ Deployment (Docker + Cloud)
 
 📚 Resources & Documentation
 
